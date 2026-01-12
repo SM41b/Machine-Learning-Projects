@@ -3,3 +3,4 @@
 2. Diabetes Prediction
 3. Heart Disease Prediction
 4. Spam Mail Classification
+5. House Price Prediction
